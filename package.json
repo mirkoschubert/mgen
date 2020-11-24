@@ -22,7 +22,7 @@
     "front-matter": "^3.0.2",
     "fs-extra": "^7.0.1",
     "glob": "^7.1.4",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.1.2",
     "js-yaml": "^3.13.1",
     "live-server": "^1.2.1",
     "markdown-it": "^8.4.2",
